@@ -1,3 +1,5 @@
+from Quinn import rect_surface_area
+from bair import rect_area
 #Function 1
 # Returns Area of Rectangle
 
